@@ -169,4 +169,9 @@ client_scripts {
     , "dlc_money/carwash.lua"
     , "dlc_money/office.lua"
     , "dlc_money/construction.lua"
+
+    -- DLC A Safehouse in the Hills (Requires forced build 3717 or higher)
+    , "dlc_mansions/mansion1.lua"
+    , "dlc_mansions/mansion2.lua"
+    , "dlc_mansions/mansion3.lua"
 }
