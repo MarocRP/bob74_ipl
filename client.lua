@@ -239,13 +239,12 @@ CreateThread(function()
     if GetGameBuildNumber() >= 3570 then
         MoneyCarwash.LoadDefault() -- 26.074, -1398.979, -75.0
         MoneyOffice.LoadDefault() -- -1160.493, -1538.932, -50.0
-        MoneyConstruction.LoadDefault()
     end
 
     -- ====================================================================
     -- =---------------- [DLC: A Safehouse in the Hills] -----------------=
     -- ====================================================================
-    if GetGameBuildNumber() >= 3570 then
+    if GetGameBuildNumber() >= 3717 then
         Mansion1.LoadDefault()
         Mansion2.LoadDefault()
         Mansion3.LoadDefault()
