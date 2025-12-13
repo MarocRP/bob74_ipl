@@ -1,4 +1,4 @@
--- Richman Villa: 26.074, -1398.979, -75.0
+-- Richman Villa: -1630.434, 470.852, 128.0
 exports("GetMansion2", function()
     return Mansion2
 end)
@@ -17,7 +17,11 @@ Mansion2 = {
                 "hei_ch1_06e_mansion_private",
                 "hei_ch1_06e_mansion_furniture",
                 "hei_ch1_06e_mansion_firepit",
-                "hei_ch1_06e_mansion_railings_p"
+                "hei_ch1_06e_mansion_railings_p",
+                "m25_2_mansion_gym",
+                "m25_2_dog_house",
+                "m25_2_mansion_props",
+                "hei_ch1_roads_mansion"
             },
 
             Load = function()

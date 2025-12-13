@@ -1,4 +1,4 @@
--- The Tongva Estate: 26.074, -1398.979, -75.0
+-- The Tongva Estate: -2601.712, 1874.826, 166.0
 exports("GetMansion3", function()
     return Mansion3
 end)
@@ -16,7 +16,11 @@ Mansion3 = {
                 "hei_ch1_09_mansion_private",
                 "hei_ch1_09_mansion_furniture",
                 "hei_ch1_09_mansion_firepit",
-                "hei_ch1_09_mansion_railings_p"
+                "hei_ch1_09_mansion_railings_p",
+                "m25_2_tongva_mansion_gym",
+                "m25_2_tongva_dog_house",
+                "m25_2_mansion_props",
+                "hei_ch1_roads_mansion"
             },
 
             Load = function()

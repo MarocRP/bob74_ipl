@@ -1,4 +1,4 @@
--- The Vinewood Residence: 26.074, -1398.979, -75.0
+-- The Vinewood Residence: 543.852, 712.754, 201.0
 exports("GetMansion1", function()
     return Mansion1
 end)
@@ -16,7 +16,11 @@ Mansion1 = {
                 "apa_ch2_04_mansion_private",
                 "apa_ch2_04_mansion_furniture",
                 "apa_ch2_04_mansion_firepit",
-                "apa_ch2_04_mansion_railings_p"
+                "apa_ch2_04_mansion_railings_p",
+                "m25_2_east_mansion_gym",
+                "m25_2_east_dog_house",
+                "m25_2_mansion_props",
+                "hei_ch1_roads_mansion"
             },
 
             Load = function()
