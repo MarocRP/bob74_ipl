@@ -175,4 +175,7 @@ client_scripts {
     , "dlc_mansions/mansion1.lua"
     , "dlc_mansions/mansion2.lua"
     , "dlc_mansions/mansion3.lua"
+    , "dlc_mansions/mansion_basement1.lua"
+    , "dlc_mansions/mansion_basement2.lua"
+    , "dlc_mansions/mansion_basement3.lua"
 }
